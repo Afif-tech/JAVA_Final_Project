@@ -9,7 +9,12 @@ import java.util.InputMismatchException;
 
 /**
  *
- * @author Acer
+ * @author GROUP 2
+ * Hazmi Hazim
+ * Zarif Syazreen
+ * Ahmad Afif
+ * Zulhilmi
+ * Nur Syuhada
  */
 public class StudentGradeTracker {
 
